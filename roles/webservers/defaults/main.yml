@@ -1,6 +1,6 @@
 ---
 package_name_jdk: java-1.8.0-openjdk-devel
-maven_version: 3.5.3
+maven_version: 3.5.4
 maven_src: /usr/local/src
 maven_home: /usr/local/maven
 maven_sh_path: /etc/profile.d/maven.sh
